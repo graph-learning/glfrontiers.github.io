@@ -33,7 +33,7 @@ We welcome submissions that address the following aspects of learning simulation
 
 - Novel deep learning architectures and/or objectives for learning simulation
 
-- Application of deep learning to an important simulation domain, improving on previous methods
+- Application of a deep learning method to one or several important simulation domains, improving on previous methods
 
 - Deep learning methods to speed up simulations
 
