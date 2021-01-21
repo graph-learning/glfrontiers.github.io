@@ -22,6 +22,8 @@ So far these works have shown the promise to learn a variety of complex processe
 
 Many different communities have realized the potential of using deep learning approach to learn simulation. Those communities include:
 - Simulation for physics, such as simulations in particle physics, plasma physics and fluid dynamics [9, 10]. Initial conditions typically involve particle data, as well as electric and magnetic field data that interact with each other over time.
+
+- Simulation for materials [12].
     
 - Simulation is widely applied in chemistry, to understand structures of molecules. 
     For example, in quantum chemistry, given an initial geometric configurations of atoms, simulation is required to evolve the atom configurations to eventually achieve a lowest-energy state of a molecule [2].
@@ -50,4 +52,5 @@ Should you have any questions, please reach out to us via email:<br>
 [9] R. Wang et al. Towards physics-informed deep learning for turbulent flow prediction. KDD 2020.<br>
 [10] A. Mohan et al. Embedding hard physical constraints in convolutional neural networks for 3D turbulence. ICLR 2020 Workshop.<br>
 [11] Y. Li et al. Learning compositional koopman operators for model-based control. ICLR 2020.<br>
+[12] Peurifoy, John, et al. "Nanophotonic particle simulation and inverse design using artificial neural networks." Science advances 4.6 (2018): eaar4206.
 
