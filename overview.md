@@ -32,6 +32,18 @@ Many different communities have realized the potential of using deep learning ap
     
 - Graphics is an important area to test the physical reasoning ability of a learned simulation model. Recent works have demonstrated the generalization ability of machine learning models to predict diverse graphics scenes consisting of fluid, rigid bodies and elastic bodies [4, 11].
 
+We welcome submissions that address the following aspects of learning simulation:
+
+- Novel deep learning architectures and/or objectives for learning simulation
+
+- Application of deep learning to an important simulation domain, improving on previous methods
+
+- Deep learning methods to speed up simulations
+
+- New benchmarks and/or evaluation metrics for learning simulation
+
+- Theoretical understanding and analysis of architectures and/or objectives.
+
 
 The workshop will consist of contributed talks, contributed posters, and invited talks on a wide variety of methods and problems including but not limited to those in the abovementioned communities.
 We encourage submissions that propose benchmarks and provide a standard evaluation strategy for performance comparison between existing methods for learning simulation.
