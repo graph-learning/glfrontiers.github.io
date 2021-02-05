@@ -30,10 +30,10 @@ Time zone:
 
 3:15--3:45PM: **Invited talk**: *Yunzhu Li* 
 
-3:45--4:15PM: **Invited talk**: *TBD* 
+3:45--4:15PM: **Invited talk**: *Jesse Thaler* 
 
-4:15--4:45PM: **Invited talk**: *TBD* 
+4:15--4:45PM: **Invited talk**: *Larry Zitnick* 
 
-4:45--5:15PM: **Invited talk**: *TBD* 
+4:45--5:15PM: **Invited talk**: *Ron Fedkiw* 
 
 5:15--5:30: **Closing remarks**
