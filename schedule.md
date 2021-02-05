@@ -28,9 +28,9 @@ Time zone:
 
 2:45--3:15PM: **Breakout Discussion Session**
 
-3:15--3:45PM: **Invited talk**: *Yunzhu Li* 
+3:15--3:45PM: **Invited talk**: *Jesse Thaler*
 
-3:45--4:15PM: **Invited talk**: *Jesse Thaler* 
+3:45--4:15PM: **Invited talk**: *Yunzhu Li* 
 
 4:15--4:45PM: **Invited talk**: *Larry Zitnick* 
 
