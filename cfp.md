@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Friday, 26 Feb 2021 (23:59 AoE)<br> 
+**Submission deadline:** Friday, 12 March 2021 (23:59 AoE)<br> 
 
 **Author notification:** Friday, 26 March 2021
 
