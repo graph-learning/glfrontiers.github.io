@@ -4,6 +4,7 @@ title: Organizers
 permalink: /organizers/
 ---
 
+**Organizers:**
 <table>
   <tr>
     <td> 
@@ -44,10 +45,33 @@ permalink: /organizers/
 
 
 **Program chairs:**
-- [**Rex Ying**](https://cs.stanford.edu/people/rexy/), *Stanford University*
-- [**Tailin Wu**](https://tailin.org/), *Stanford University*
-- [**Liwei Chen**](https://ge.in.tum.de/about/dr-liwei-chen/), *Technical University of Munich*
-- [**Yunzhu Li**](https://people.csail.mit.edu/liyunzhu/), *MIT*
+
+<table>
+  <tr>
+    <td> 
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rex_Ying.jpg?raw=true"  alt="1" width = 130px height = 147px ><br />
+      <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a><br />
+      Stanford
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Tailin_Wu.jpg?raw=true" alt="2" width = 130px height = 147px><br />
+      <a href="https://tailin.org/">Tailin Wu</a><br />
+      Stanford
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Liwei-Chen.png?raw=true" alt="2" width = 130px height = 147px><br />
+      <a href="https://ge.in.tum.de/about/dr-liwei-chen/">Liwei Chen</a><br />
+      TUM
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/liyunzhu.jpg?raw=true" alt="2" width = 130px height = 147px><br />
+      <a href="https://people.csail.mit.edu/liyunzhu/">Yunzhu Li</a><br />
+      MIT
+    </td>
+  </tr> 
+</table>
 
 Should you have any questions, please reach out to us via email:<br>
 [simdl2021@gmail.com](mailto:simdl2021@gmail.com)
