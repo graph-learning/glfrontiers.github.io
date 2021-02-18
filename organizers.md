@@ -21,12 +21,16 @@ permalink: /organizers/
       <a href="https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en">Peter Battaglia</a><br />
       DeepMind
     </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rose_Yu.jpg?raw=true" alt="2" width = 130px height = 147px><br />
+      <a href="http://roseyu.com/">Rose Yu</a><br />
+      UCSD
+    </td>
   </tr> 
 </table>
 
 
 
-- [**Rose Yu**](http://roseyu.com/), *UC San Diego*
 - [**Ryan Adams**](https://www.cs.princeton.edu/~rpa/), *Princeton University*
 - [**Jure Leskovec**](https://cs.stanford.edu/~jure/), *Stanford University*
 
