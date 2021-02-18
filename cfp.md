@@ -13,7 +13,7 @@ permalink: /cfp/
 **Workshop:** Saturday, 8 May 2021<br>
 The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. For more information from ICLR, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
 
-You may submit your paper through **CMT**, by following [this link](https://cmt3.research.microsoft.com/SimDL2021/).
+You may submit your paper through **CMT**, by following [**this link**](https://cmt3.research.microsoft.com/ICLRSimDL2021/).
 
 We encourage submissions related to learning simulations using deep learning. The areas of simulation span areas in science and engineering. Here is a non-exhaustive list of areas of learning simulation:
 
