@@ -8,7 +8,7 @@ permalink: /cfp/
 
 **Author notification:** Friday, 26 March 2021
 
-**Camera ready deadline:** Monday, 6 July 2021 (23:59 AoE)
+**Camera ready deadline:** Friday, 30 April 2021 (23:59 AoE)
 
 **Workshop:** Saturday, 8 May 2021<br>
 The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. For more information from ICLR, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
