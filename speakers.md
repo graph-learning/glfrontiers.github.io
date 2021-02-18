@@ -4,19 +4,19 @@ title: Speakers
 permalink: /speakers/
 ---
 
-<table style="text-align:center">
+<table>
   <tr>
-    <td style="text-align:center"> 
+    <td> 
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Nils_Thuerey.jpg?raw=true"  alt="1" width = 150px height = 170px ><br />
       <a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a><br />
       TUM
     </td>
-    <td style="text-align:center">
+    <td>
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?raw=true" alt="2" width = 150px height = 170px><br />
       <a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br />
       Caltech & NVIDIA
     </td>
-    <td style="text-align:center">
+    <td>
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/david_duvenaud_full.jpg?raw=true" alt="2" width = 150px height = 170px><br />
       <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a><br />
       University of Toronto
