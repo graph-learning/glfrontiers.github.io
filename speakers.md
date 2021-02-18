@@ -12,22 +12,22 @@ permalink: /speakers/
       TUM
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?" alt="2" width = 130px height = 170px><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?raw=true" alt="2" width = 130px height = 170px><br />
       <a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br />
       Caltech & NVIDIA
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/david_duvenaud_full.jpg" alt="2" width = 130px height = 170px><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/david_duvenaud_full.jpg?raw=true" alt="2" width = 130px height = 170px><br />
       <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a><br />
       University of Toronto
     </td>
     <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/thaler_jesse.jpg" alt="2" width = 130px height = 170px><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/thaler_jesse.jpg?raw=true" alt="2" width = 130px height = 170px><br />
       <a href="http://www.jthaler.net/doku.php">Jesse Thaler</a><br />
       MIT
     </td>
     <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Shirley_Ho.jpg" alt="2" width = 130px height = 170px><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Shirley_Ho.jpg?raw=true" alt="2" width = 130px height = 170px><br />
       <a href="https://www.cmu.edu/physics/people/faculty/ho.html">Shirley Ho</a><br />
       Flatiron Institute
     </td>
