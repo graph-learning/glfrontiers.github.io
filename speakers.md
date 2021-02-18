@@ -4,17 +4,17 @@ title: Speakers
 permalink: /speakers/
 ---
 
-<table>
+<table style="text-align:center">
   <tr>
-    <td> 
-      <tr><img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Nils_Thuerey.jpg?raw=true"  alt="1" width = 120px height = 160px ></tr>
-      <tr><a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a></tr>
-      <tr>TUM</tr>
+    <td style="text-align:center"> 
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Nils_Thuerey.jpg?raw=true"  alt="1" width = 120px height = 160px ><br />
+      <a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a><br />
+      TUM
     </td>
-    <td>
-      <tr><img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?raw=True" alt="2" width = 120px height = 160px></tr>
-      <tr><a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a></tr>
-      <tr>Caltech & NVIDIA</tr> 
+    <td style="text-align:center">
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?raw=True" alt="2" width = 120px height = 160px><br />
+      <a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br />
+      Caltech & NVIDIA
     </td>
   </tr> 
 </table>
