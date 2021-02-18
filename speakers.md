@@ -32,11 +32,26 @@ permalink: /speakers/
       Flatiron Institute
     </td>
   </tr> 
+  <tr>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Ron_Fedkiw.jpg?raw=true" alt="2" width = 130px height = 170px><br />
+      <a href="http://physbam.stanford.edu/~fedkiw/">Ron Fedkiw</a><br />
+      Stanford
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Larry_Zitnick.png?raw=true" alt="2" width = 130px height = 170px><br />
+      <a href="http://larryzitnick.org/">Larry Zitnick</a><br />
+      FAIR
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Dabiri_Caltech.jpg?raw=true" alt="2" width = 130px height = 170px><br />
+      <a href="http://dabirilab.com/dabiri">John Dabiri</a><br />
+      Caltech
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/liyunzhu.jpg?raw=true" alt="2" width = 130px height = 170px><br />
+      <a href="https://people.csail.mit.edu/liyunzhu/">Yunzhu Li</a><br />
+      MIT
+    </td>
+  </tr>
 </table>
-
-
-- [**Ron Fedkiw**](http://physbam.stanford.edu/~fedkiw/), *Stanford*
-- [**John Dabiri**](http://dabirilab.com/dabiri), *Caltech*
-- [**Larry Zitnick**](http://larryzitnick.org/), *Facebook AI Research*
-- [**Yunzhu Li**](https://people.csail.mit.edu/liyunzhu/), *MIT*
-
