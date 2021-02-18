@@ -7,21 +7,25 @@ permalink: /organizers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rex_Ying.jpg?raw=true"  alt="1" width = 150px height = 170px ><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rex_Ying.jpg?raw=true"  alt="1" width = 130px height = 147px ><br />
       <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a><br />
       Stanford
     </td>
     <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Tailin_Wu.jpg?raw=true" alt="2" width = 150px height = 170px><br />
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Tailin_Wu.jpg?raw=true" alt="2" width = 130px height = 147px><br />
       <a href="https://tailin.org/">Tailin Wu</a><br />
       Stanford
+    </td>
+    <td>
+      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Peter_Battaglia.jpeg?raw=true" alt="2" width = 130px height = 147px><br />
+      <a href="https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en">Peter Battaglia</a><br />
+      DeepMind
     </td>
   </tr> 
 </table>
 
 
 
-- [**Peter Battaglia**](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en), *DeepMind*
 - [**Rose Yu**](http://roseyu.com/), *UC San Diego*
 - [**Ryan Adams**](https://www.cs.princeton.edu/~rpa/), *Princeton University*
 - [**Jure Leskovec**](https://cs.stanford.edu/~jure/), *Stanford University*
