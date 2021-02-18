@@ -5,6 +5,7 @@ permalink: /speakers/
 ---
 
 - [**Nils Thuerey**](https://ge.in.tum.de/about/n-thuerey/), *Technical University of Munich*
+- ![alt text](https://github.com/SimDL/SimDL.github.io/blob/main/images/Nils_Thuerey.jpg?raw=true)
 - [**Anima Anandkumar**](http://tensorlab.cms.caltech.edu/users/anima/), *Caltech* & *NVIDIA*
 - [**David Duvenaud**](http://www.cs.toronto.edu/~duvenaud/), *University of Toronto*
 - [**Jesse Thaler**](http://www.jthaler.net/doku.php), *MIT*
