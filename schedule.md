@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The Workshop will be held virtually, on May 8th.<br>
+The Workshop will be held virtually, on May 7th.<br>
 Time zone:
 
 8:45--9:00AM: **Opening remarks**
