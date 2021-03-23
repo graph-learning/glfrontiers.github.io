@@ -9,18 +9,24 @@ Time zone:
 
 8:45--9:00AM: **Opening remarks**
 
-9:00--9:45AM: **Invited talk**: *Nils Thuerey*
+9:00--9:30AM: **Invited talk**: *Nils Thuerey*
 
-9:45--10:30AM: **Invited talk**: *Anima Anandkumar*
+9:30--10:00AM: **Invited talk**: *Larry Zitnick*
+
+10:00--10:30AM: **Invited talk**: *David Duvenaud*
 
 10:30--11:00AM: **Q&A / Discussions / Coffee break 1**
 
-11:00--11:30AM: **Contributed talks**
+11:00--11:15AM: **Contributed talks 1**
 * TBD: _"Paper Submissions"_
 
-11:30AM--12:15PM: **Invited talk**: *David Duvenaud*
+11:15--11:30AM: **Contributed talks 2**
 
-12:15--1:45PM: [**Virtual Poster Session #1**](/papers)
+11:30AM--11:45PM: **Break**
+
+11:45--1:15PM: [**Virtual Poster Session**](/papers)
+
+1:15--1:45PM:**Invited talk**: *Anima Anandkumar*
 
 1:45--2:15PM: **Contributed talks**
 
