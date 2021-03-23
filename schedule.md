@@ -20,26 +20,28 @@ Time zone:
 11:00--11:15AM: **Contributed talks 1**
 * TBD: _"Paper Submissions"_
 
-11:15--11:30AM: **Contributed talks 2**
+11:15--11:30AM: **Break**
 
-11:30AM--11:45PM: **Break**
+11:30AM--1:00PM: [**Virtual Poster Session**](/papers)
 
-11:45--1:15PM: [**Virtual Poster Session**](/papers)
+1:00--1:30PM:**Invited talk**: *Shirley Ho*
 
-1:15--1:45PM:**Invited talk**: *Anima Anandkumar*
+1:30--2:00PM: **Invited talk**: *Anima Anandkumar*
 
-1:45--2:15PM: **Contributed talks**
+2:00--2:30PM: **Invited talk**: *Jesse Thaler*
 
-2:15--2:45PM: **Invited talk**: *Shirley Ho* 
+2:30--2:45PM: **Contributed talks 2**
 
-2:45--3:15PM: **Breakout Discussion Session**
+2:45--3:00PM: **Contributed talks 3**
 
-3:15--3:45PM: **Invited talk**: *Jesse Thaler*
+3:00--3:30PM: **Break**
 
-3:45--4:15PM: **Invited talk**: *Yunzhu Li* 
+3:30--4:00PM: **Invited talk**: *Ron Fedkiw* 
 
-4:15--4:45PM: **Invited talk**: *Larry Zitnick* 
+4:00--4:30PM: **Invited talk**: *John O. Dabiri* 
 
-4:45--5:15PM: **Invited talk**: *Ron Fedkiw* 
+4:30--5:00PM: **Invited talk**: *Yunzhu Li* 
 
-5:15--5:30: **Closing remarks**
+5:00--5:15PM: **Q&A / Discussions 2**
+
+5:15--5:30PM: **Closing remarks**
