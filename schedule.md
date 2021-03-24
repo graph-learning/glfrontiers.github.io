@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 The Workshop will be held virtually, on May 7th.<br>
-Time zone:
+Time zone: PDT
 
 8:45--9:00AM: **Opening remarks**
 
