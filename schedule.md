@@ -29,11 +29,13 @@ Time zone: PDT
 
 2:00--2:30PM: **Invited talk**: *Jesse Thaler*
 
-2:30--2:45PM: **Contributed talks 2**
+2:30--2:45PM: **Q&A / Discussions 2**
 
-2:45--3:00PM: **Contributed talks 3**
+2:45--3:00PM: **Contributed talks 2**
 
-3:00--3:30PM: **Break**
+3:00--3:15PM: **Contributed talks 3**
+
+3:15--3:30PM: **Break**
 
 3:30--4:00PM: **Invited talk**: *Ron Fedkiw* 
 
@@ -41,6 +43,6 @@ Time zone: PDT
 
 4:30--5:00PM: **Invited talk**: *Yunzhu Li* 
 
-5:00--5:15PM: **Q&A / Discussions 2**
+5:00--5:15PM: **Q&A / Discussions 3**
 
 5:15--5:30PM: **Closing remarks**
