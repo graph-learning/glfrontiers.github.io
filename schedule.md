@@ -18,7 +18,6 @@ Time zone: PDT
 10:30--11:00AM: **Q&A / Discussions / Coffee break 1**
 
 11:00--11:15AM: **Contributed talks 1**
-* TBD: _"Paper Submissions"_
 
 11:15--11:30AM: **Break**
 
