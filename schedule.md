@@ -23,7 +23,7 @@ Time zone: PDT
 
 11:30AM--1:00PM: [**Virtual Poster Session**](/papers)
 
-1:00--1:30PM:**Invited talk**: *David Duvenaud*
+1:00--1:30PM: **Invited talk**: *David Duvenaud*
 
 1:30--2:00PM: **Invited talk**: *Anima Anandkumar*
 
