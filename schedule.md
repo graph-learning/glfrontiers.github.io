@@ -13,7 +13,7 @@ Time zone: PDT
 
 9:30--10:00AM: **Invited talk**: *Larry Zitnick*
 
-10:00--10:30AM: **Invited talk**: *David Duvenaud*
+10:00--10:30AM: **Invited talk**: *Shirley Ho*
 
 10:30--11:00AM: **Q&A / Discussions / Coffee break 1**
 
@@ -23,7 +23,7 @@ Time zone: PDT
 
 11:30AM--1:00PM: [**Virtual Poster Session**](/papers)
 
-1:00--1:30PM:**Invited talk**: *Shirley Ho*
+1:00--1:30PM:**Invited talk**: *David Duvenaud*
 
 1:30--2:00PM: **Invited talk**: *Anima Anandkumar*
 
