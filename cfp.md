@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission deadline:** Friday, 12 March 2021 (23:59 AoE)<br> 
 
-**Author notification:** Monday, 31 March 2021
+**Author notification:** Wednesday, 31 March 2021
 
 **Camera ready deadline:** Friday, 30 April 2021 (23:59 AoE)
 
