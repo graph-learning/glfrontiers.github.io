@@ -39,10 +39,8 @@ Time zone: PDT
 
 3:30--4:00PM: **Invited talk**: *Ron Fedkiw* 
 
-4:00--4:30PM: **Invited talk**: *John O. Dabiri* 
+4:00--4:30PM: **Invited talk**: *Yunzhu Li* 
 
-4:30--5:00PM: **Invited talk**: *Yunzhu Li* 
+4:30--4:45PM: **Q&A / Discussions 3**
 
-5:00--5:15PM: **Q&A / Discussions 3**
-
-5:15--5:30PM: **Closing remarks**
+4:45--5:00PM: **Closing remarks**
