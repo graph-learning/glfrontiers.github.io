@@ -52,6 +52,8 @@ The goal of this workshop is to encourage knowledge sharing and communication re
 Should you have any questions, please reach out to us via email:<br>
 [simdl2021@gmail.com](mailto:simdl2021@gmail.com)
 
+We look forward to seeing you at ICLR!
+
 ### References
 [1] P. Battaglia et al. Interaction networks for learning about objects, relations and physics. NeurIPS 2016. <br>
 [2] K. T. Schütt et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. NeurIPS 2017.<br>
