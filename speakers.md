@@ -26,13 +26,13 @@ permalink: /speakers/
       <a href="http://www.jthaler.net/doku.php">Jesse Thaler</a><br />
       MIT
     </td>
+  </tr> 
+  <tr>
     <td>
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Shirley_Ho.jpg?raw=true" alt="2" width = 130px height = 144px><br />
       <a href="https://www.cmu.edu/physics/people/faculty/ho.html">Shirley Ho</a><br />
       Flatiron Institute
     </td>
-  </tr> 
-  <tr>
     <td>
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Ron_Fedkiw.jpg?raw=true" alt="2" width = 130px height = 144px><br />
       <a href="http://physbam.stanford.edu/~fedkiw/">Ron Fedkiw</a><br />
@@ -42,11 +42,6 @@ permalink: /speakers/
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Larry_Zitnick.png?raw=true" alt="2" width = 130px height = 144px><br />
       <a href="http://larryzitnick.org/">Larry Zitnick</a><br />
       FAIR
-    </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Dabiri_Caltech.jpg?raw=true" alt="2" width = 130px height = 144px><br />
-      <a href="http://dabirilab.com/dabiri">John Dabiri</a><br />
-      Caltech
     </td>
     <td>
       <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/liyunzhu.jpg?raw=true" alt="2" width = 130px height = 144px><br />
