@@ -4,7 +4,7 @@ title: Overview
 permalink: /overview/
 ---
 
-**Date and time:** May 7, time TBD <br>
+**Date and time:** May 7, time 8:45am-5:00pm PDT (see [schedule](https://github.com/SimDL/SimDL.github.io/blob/main/schedule.md)) <br>
 The workshop will be held **virtually** following ICLR guidelines. If you would like to participate, you need to [register the ICLR ticket](https://iclr.cc/Conferences/2021) and check the "workshop" choice. For more information from ICLR 2021, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
 
 ## Why Deep Learning for Simulation <br>
