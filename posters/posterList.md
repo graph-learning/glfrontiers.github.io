@@ -1,3 +1,8 @@
+---
+layout: post
+title: Posters
+permalink: /posterList/
+---
 |  |                                                                                                                        |
 |--|------------------------------------------------------------------------------------------------------------------------|
 |1 |  [Persistent Message Passing](../1-supp_2021-ICLR_workshop-PMP-v2.pdf)  petarv@google.com   Strathmann, Heiko; Barekatain, Mohammadamin; Blundell , Charles ; Veličković, Petar*
