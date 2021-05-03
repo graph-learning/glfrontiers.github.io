@@ -5,7 +5,8 @@ permalink: /posterList/
 ---
 |  |                                                                                                                        |
 |--|------------------------------------------------------------------------------------------------------------------------|
-|1 |  [Persistent Message Passing](https://github.com/SimDL/SimDL.github.io/blob/main/files/1_Persistent_GNNs_final.pdf). [Poster](https://github.com/SimDL/SimDL.github.io/blob/main/posters/1-supp_2021-ICLR_workshop-PMP-v2.pdf) Contact: petarv@google.com   Authors: Strathmann, Heiko; Barekatain, Mohammadamin; Blundell , Charles ; Veličković, Petar*
+|1 |  [Persistent Message Passing](https://github.com/SimDL/SimDL.github.io/blob/main/files/1_Persistent_GNNs_final.pdf). [Poster](https://github.com/SimDL/SimDL.github.io/blob/main/posters/1-supp_2021-ICLR_workshop-PMP-v2.pdf) 
+Contact: petarv@google.com   Authors: Strathmann, Heiko; Barekatain, Mohammadamin; Blundell , Charles ; Veličković, Petar*
 |2 |  Deep Reinforcement Learning for Furniture Layout Simulation in Indoor Graphics Scenes   deepearthgo@gmail.com   DI, XINHAN*; Yu, Pengqian
 |3 |  Clues for Noise Robustness of State Estimation: Error-curve Quest of Neural Network and Linear Regression   mojamojataichi@gmail.com    Nakamura, Taichi*; Fukami, Kai; Fukagata, Koji
 |4 |  Supervised convolutional networks for volumetric data enrichment from limited sectional data with adaptive super resolution duya3pos8@keio.jp   Matsuo, Mitsuaki*; Fukami, Kai; Nakamura, Taichi; Morimoto, Masaki; Fukagata, Koji
