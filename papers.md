@@ -11,7 +11,7 @@ permalink: /papers/
 <!--* [**Get Rid of Suspended Animation: Deep Diffusive Neural Network for Graph Representation Learning**](/papers/56.pdf). *Jiawei Zhang* -->
 <!-- #### Best paper award: Learning Graph Models for Template-Free Retrosynthesis -->
 
-[## Poster Session (Date TBD)](/postList/)
+[## Poster Session (Date TBD) ##](/postList/)
 
 <!-- * [**Graph Neural Networks in TensorFlow and Keras with Spektral**](/papers/9.pdf). *Daniele Grattarola and Cesare Alippi* -->
 
