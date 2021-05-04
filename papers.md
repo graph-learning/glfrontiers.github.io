@@ -5,6 +5,7 @@ permalink: /papers/
 ---
 
 ## Contributed Talks
+
 |  |                                                                                                                        |
 |--|------------------------------------------------------------------------------------------------------------------------|
 |26|  [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26_paper_upload.pdf) [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) Contact: alvarosg@google.com Authors: Sanchez-Gonzalez, Alvaro*; Stachenfeld, Kimberly; Fielding, Drummond; Kochkov, Dmitrii; Cranmer, Miles; Pfaff, Tobias; Godwin, Jonathan; Cui, Can; Ho, Shirley; Battaglia, Peter
@@ -12,6 +13,7 @@ permalink: /papers/
 |62|  [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62_forcenet_iclr2021_simdl.pdf) [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf) Contact: weihuahu@stanford.edu Authors: Hu, Weihua*; Shuaibi, Muhammed; Das, Abhishek; Goyal, Siddharth; Sriram, Anuroop; Leskovec, Jure; Parikh, Devi; Zitnick, Larry
 
 ### Original Research
+
 |  |                                                                                                                        |
 |--|------------------------------------------------------------------------------------------------------------------------|
 |1 |  [Persistent Message Passing.](https://simdl.github.io/files/1_Persistent_GNNs_final.pdf) [Poster](https://simdl.github.io/posters/1-supp_2021-ICLR_workshop-PMP-v2.pdf) Contact: petarv@google.com Authors: Strathmann, Heiko; Barekatain, Mohammadamin; Blundell, Charles ; Veličković, Petar*
