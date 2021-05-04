@@ -12,6 +12,8 @@ permalink: /papers/
 |62|  [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62_forcenet_iclr2021_simdl.pdf) [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf) Contact: weihuahu@stanford.edu Authors: Hu, Weihua*; Shuaibi, Muhammed; Das, Abhishek; Goyal, Siddharth; Sriram, Anuroop; Leskovec, Jure; Parikh, Devi; Zitnick, Larry
 
 ### Original Research
+|  |                                                                                                                        |
+|--|------------------------------------------------------------------------------------------------------------------------|
 |1 |  [Persistent Message Passing.](https://simdl.github.io/files/1_Persistent_GNNs_final.pdf) [Poster](https://simdl.github.io/posters/1-supp_2021-ICLR_workshop-PMP-v2.pdf) Contact: petarv@google.com Authors: Strathmann, Heiko; Barekatain, Mohammadamin; Blundell, Charles ; Veličković, Petar*
 |2 |  [Deep Reinforcement Learning for Furniture Layout Simulation in Indoor Graphics Scenes.](https://simdl.github.io/files/2_ICLR_2021_W_1.pdf) [Poster](https://simdl.github.io/posters/2-supp_ICLR_SimDL_Paper_ID_2_Poster.pdf) Contact: deepearthgo@gmail.com Authors: DI, XINHAN*; Yu, Pengqian
 |3 |  [Clues for Noise Robustness of State Estimation: Error-curve Quest of Neural Network and Linear Regression.](https://simdl.github.io/files/3_Nakamura_et_al_ICLR_2021_comp.pdf) [Poster](https://simdl.github.io/posters/3-supp_ICLR_poster_comp_taichi.pdf) Contact: mojamojataichi@gmail.com Authors: Nakamura, Taichi*; Fukami, Kai; Fukagata, Koji
