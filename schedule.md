@@ -17,7 +17,7 @@ Time zone: PDT
 
 10:30--11:00AM: **Q&A / Discussions / Coffee break 1**
 
-11:00--11:15AM: **Contributed talks 1**: [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26_paper_upload.pdf) [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) *Authors: Sanchez-Gonzalez, Alvaro; Stachenfeld, Kimberly; Fielding, Drummond; Kochkov, Dmitrii; Cranmer, Miles; Pfaff, Tobias; Godwin, Jonathan; Cui, Can; Ho, Shirley; Battaglia, Peter*
+11:00--11:15AM: **Contributed talks 1**: [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26.pdf) [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) *Authors: Sanchez-Gonzalez, Alvaro; Stachenfeld, Kimberly; Fielding, Drummond; Kochkov, Dmitrii; Cranmer, Miles; Pfaff, Tobias; Godwin, Jonathan; Cui, Can; Ho, Shirley; Battaglia, Peter*
 
 11:15--11:30AM: **Break**
 
@@ -31,9 +31,9 @@ Time zone: PDT
 
 2:30--2:45PM: **Q&A / Discussions 2**
 
-2:45--3:00PM: **Contributed talks 2**: [Learning 3D Granular Flow Simulations.](https://SimDL.github.io/files/42_workshop_sim_ICLR.pdf) [Poster](https://SimDL.github.io/posters/42-supp_poster.pdf) *Authors: Mayr, Andreas; Lehner, Sebastian; Mayrhofer, Arno; Kloss, Christoph; Hochreiter, Sepp; Brandstetter, Johannes*
+2:45--3:00PM: **Contributed talks 2**: [Learning 3D Granular Flow Simulations.](https://SimDL.github.io/files/42.pdf) [Poster](https://SimDL.github.io/posters/42-supp_poster.pdf) *Authors: Mayr, Andreas; Lehner, Sebastian; Mayrhofer, Arno; Kloss, Christoph; Hochreiter, Sepp; Brandstetter, Johannes*
 
-3:00--3:15PM: **Contributed talks 3**: [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62_forcenet_iclr2021_simdl.pdf) [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf) *Authors: Hu, Weihua; Shuaibi, Muhammed; Das, Abhishek; Goyal, Siddharth; Sriram, Anuroop; Leskovec, Jure; Parikh, Devi; Zitnick, Larry*
+3:00--3:15PM: **Contributed talks 3**: [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62.pdf) [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf) *Authors: Hu, Weihua; Shuaibi, Muhammed; Das, Abhishek; Goyal, Siddharth; Sriram, Anuroop; Leskovec, Jure; Parikh, Devi; Zitnick, Larry*
 
 3:15--3:30PM: **Break**
 
