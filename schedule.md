@@ -17,7 +17,7 @@ Time zone: PDT
 
 10:30--11:00AM: **Q&A / Discussions / Coffee break 1**
 
-11:00--11:15AM: **Contributed talks 1**
+11:00--11:15AM: **Contributed talks 1**: [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26_paper_upload.pdf) [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) Authors: Sanchez-Gonzalez, Alvaro*; Stachenfeld, Kimberly; Fielding, Drummond; Kochkov, Dmitrii; Cranmer, Miles; Pfaff, Tobias; Godwin, Jonathan; Cui, Can; Ho, Shirley; Battaglia, Peter
 
 11:15--11:30AM: **Break**
 
