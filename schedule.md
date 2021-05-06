@@ -3,39 +3,6 @@ layout: post
 title: Schedule
 permalink: /schedule/
 ---
-'''
-Nils. Thuerey:
-Differentialble simulations as fundamental buiding blocks for deep learning
-
-Larry Zitnick
-open catalyst project: using AI to model and discover new catalyst to address the energy challenges posed by climate change
-
-
-David Duvenaud
-Latent Stochastic Differential Equations
-
-CT-1: Alvaro Sanchez Gonzalez
-"learning general purpose"
-
-Shirley Ho:
-Learning symbolic equations with deep learning
-
-Anima Anandkumar
-AI4Science: a revolution in the making
-
-Jesse Thaler
-Deep learning for collider physics simulation
-
-
-CT-2 Weihua Wu
-ForceNet: a Graph neural network for large scale qu
-
-
-CT-3 Andreas Mayr
-
-Yunzhu Li
-Learning Computational Dynamics models for physics inference and model-based control.
-'''
 The Workshop will be held virtually, on May 7th.<br>
 Time zone: PDT
 
