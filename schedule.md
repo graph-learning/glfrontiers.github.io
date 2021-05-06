@@ -43,8 +43,7 @@ Time zone: PDT
 
 9:00--9:30AM: **Invited talk**: *Nils Thuerey - Differentiable Simulations as Fundamental Building Blocks for Deep Learning*
 
-9:30--10:00AM: **Invited talk**: *Larry Zitnick - Open Catalyst Project: using AI to model and discover new catalyst to address the energy challenges posed by climate change
-*
+9:30--10:00AM: **Invited talk**: *Larry Zitnick - Open Catalyst Project: using AI to model and discover new catalyst to address the energy challenges posed by climate change*
 
 10:00--10:30AM: **Invited talk**: *Shirley Ho - Learning Symbolic Equations with Deep Learning*
 
