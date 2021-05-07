@@ -32,7 +32,7 @@ Time zone: PDT
 
 2:45--3:00PM: **Contributed talks 2**: *Andreas Mayr - [Learning 3D Granular Flow Simulations.](https://SimDL.github.io/files/42.pdf)* [Poster](https://SimDL.github.io/posters/42-supp_poster.pdf)
 
-3:00--3:15PM: **Contributed talks 3**: *Weihua Wu - [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62.pdf)* [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf)
+3:00--3:15PM: **Contributed talks 3**: *Weihua Hu - [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62.pdf)* [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf)
 
 3:15--3:30PM: **Break**
 
