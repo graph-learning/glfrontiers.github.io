@@ -3,7 +3,7 @@ layout: post
 title: Schedule
 permalink: /schedule/
 ---
-The Workshop will be held virtually, on May 7th.<br>
+The Workshop will be held virtually at [https://iclr.cc/virtual/2021/workshop/2141](https://iclr.cc/virtual/2021/workshop/2141), on May 7th.<br>
 Time zone: PDT
 
 8:45--9:00AM: **Opening remarks**
