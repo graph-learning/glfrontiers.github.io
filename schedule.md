@@ -20,7 +20,7 @@ Time zone: PDT
 
 11:15--11:30AM: **Break**
 
-11:30AM--1:00PM: [**Virtual Poster Session**](/papers) (via gather.town)
+11:30AM--1:00PM: [**Virtual Poster Session**](/papers) (via [gather.town](https://eventhosts.gather.town/app/gPmDp1IwP1UqHKxq/ICLR2021simDL))
 
 1:00--1:30PM: **Invited talk**: *David Duvenaud - Latent Stochastic Differential Equations*
 
