@@ -36,7 +36,7 @@ Time zone: PDT
 
 3:15--3:30PM: **Break**
 
-3:30--4:00PM: **Invited talk**: *Ron Fedkiw* 
+3:30--4:00PM: **Invited talk**: *Ron Fedkiw - On Neural Networks for Physical Simulation* 
 
 4:00--4:30PM: **Invited talk**: *Yunzhu Li - Learning Computational Dynamics Models for Physics Inference and Model-based Control.* 
 
