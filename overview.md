@@ -5,7 +5,7 @@ permalink: /overview/
 ---
 
 **Date and time:** May 7, time 8:45am-5:00pm PDT (see [schedule](https://simdl.github.io/schedule/)) <br>
-The workshop will be held **virtually** following ICLR guidelines. If you would like to participate, you need to [register the ICLR ticket](https://iclr.cc/Conferences/2021), and then go to the ICLR 2021 virtual site, from which you can find our workshop. For more information from ICLR 2021, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
+The workshop will be held **virtually** at [https://iclr.cc/virtual/2021/workshop/2141](https://iclr.cc/virtual/2021/workshop/2141). If you would like to participate, you need to [register the ICLR ticket](https://iclr.cc/Conferences/2021), and then go to the ICLR 2021 virtual site, from which you can find our workshop. For more information from ICLR 2021, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
 
 ## Why Deep Learning for Simulation <br>
 Recently there has been a surge in interest in using **deep learning to facilitate simulation**, in application areas including physics [1], chemistry [2], robotics [3] and graphics [4].
