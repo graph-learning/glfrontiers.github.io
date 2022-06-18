@@ -4,56 +4,48 @@ title: Overview
 permalink: /overview/
 ---
 
-**Date and time:** May 7, time 8:45am-5:00pm PDT (see [schedule](https://simdl.github.io/schedule/)) <br>
-The workshop will be held **virtually** at [https://iclr.cc/virtual/2021/workshop/2141](https://iclr.cc/virtual/2021/workshop/2141). The full recorded workshop will be open to general public some time later after the ICLR conference. If you would like to participate, you need to [register the ICLR ticket](https://iclr.cc/Conferences/2021) first.
-
-## Why Deep Learning for Simulation <br>
-Recently there has been a surge in interest in using **deep learning to facilitate simulation**, in application areas including physics [1], chemistry [2], robotics [3] and graphics [4].
-We define simulation as the process of iteratively generating output of the next time step using the output of the previous time step as input starting from an initial condition.
-
-To date, out of the 10 [most powerful supercomputers](https://www.olcf.ornl.gov/2019/01/17/a-sneak-peek-at-19-science-simulations-for-the-summit-supercomputer-in-2019/) in the world, 9 of them are used for simulations, spanning the field of cosmology, geophysics and fluid dynamics [5].
-These applications not only demonstrate the importance of simulation as a methodology in sciences and engineering, but also reveal the tremendous time and space complexity of such real-world simulations.
-
-Recent works have started to actively explore the potential of using deep learning to improve these highly important simulations in terms of accuracy and efficiency.
-The goal is to use data-driven machine learning models to learn the underlying mechanism by which a given system evolves, such that it could predict the evolution over large number of time steps, and generalize to an unseen initial condition or extrapolate future evolution. 
-So far these works have shown the promise to learn a variety of complex processes, such as graphics simulation [4], cosmology simulation [6], glassy dynamics [7] and generic partial differential equations [8]. 
-
-## Application Domains <br>
-
-Many different communities have realized the potential of using deep learning approach to learn simulation. Those communities include:
-- Simulation for physics, such as simulations in particle physics, plasma physics and fluid dynamics [9, 10]. Initial conditions typically involve particle data, as well as electric and magnetic field data that interact with each other over time.
-
-- Simulation for materials, whose application includes property prediction and inverse design [12].
-    
-- Simulation is widely applied in chemistry, to understand structures of molecules. 
-    For example, in quantum chemistry, given an initial geometric configurations of atoms, simulation is required to evolve the atom configurations to eventually achieve a lowest-energy state of a molecule [2].
-    
-- In robotics, learning a forward simulation model of the complex environment helped the agent perform better planning (model-predictive control) [3].
-    
-- Graphics is an important area to test the physical reasoning ability of a learned simulation model. Recent works have demonstrated the generalization ability of machine learning models to predict diverse graphics scenes consisting of fluid, rigid bodies and elastic bodies [4, 11].
-
-We welcome submissions that address the following aspects of learning simulation:
-
-- Novel deep learning architectures and/or objectives for learning simulation
-
-- Application of a deep learning method to one or several important simulation domains, improving on previous methods
-
-- Deep learning methods to speed up simulations
-
-- New benchmarks and/or evaluation metrics for learning simulation
-
-- Theoretical understanding and analysis of architectures and/or objectives.
+<!-- **Date and time:** May 7, time 8:45am-5:00pm PDT (see [schedule](https://simdl.github.io/schedule/)) <br>
+The workshop will be held **virtually** at [https://iclr.cc/virtual/2021/workshop/2141](https://iclr.cc/virtual/2021/workshop/2141). The full recorded workshop will be open to general public some time later after the ICLR conference. If you would like to participate, you need to [register the ICLR ticket](https://iclr.cc/Conferences/2021) first. -->
 
 
-The workshop will consist of contributed talks, contributed posters, and invited talks on a wide variety of methods and problems including but not limited to those in the abovementioned communities.
-We encourage submissions that propose benchmarks and provide a standard evaluation strategy for performance comparison between existing methods for learning simulation.
-The goal of this workshop is to encourage knowledge sharing and communication revolving around machine learning for simulation, across the variety of domains, and potentially create collaborations.
+In recent years, graph learning has quickly grown into an established sub-field of machine learning. Researchers have been focusing on developing novel model architectures, theoretical understandings, scalable algorithms and systems, and successful applications across industry and science regarding graph learning. In fact, more than 5000 research papers related to graph learning have been published over the past year alone.
+
+### Challenges
+Despite the success, existing graph learning paradigms have not captured the full spectrum of relationships in the physical and the virtual worlds.
+For example, in terms of applicability of graph learning algorithms, current graph learning paradigms are often restricted to datasets with explicit graph representations,
+whereas recent works have shown promise of graph learning methods for applications without explicit graph representations.
+In terms of usability, while popular graph learning libraries greatly facilitate the implementation of graph learning techniques,
+finding the right graph representation and model architecture for a given use case still requires heavy expert knowledge.
+Furthermore, in terms of generalizability, unlike domains such as computer vision and natural language processing where large-scale pre-trained models generalize across downstream applications with little to no fine-tuning and demonstrate impressive performance, such a paradigm has yet to succeed in the graph learning domain.
+
+### Goal
+The primary goal of this workshop is to expand the impact of graph learning beyond the current boundaries. 
+We believe that graph, or relation data, is a universal language that can be used to describe the complex world.
+Ultimately, we hope graph learning will become a generic tool for learning and understanding any type of (structured) data. 
+%We aim to present and discuss the new frontiers in graph learning with researchers and practitioners within and outside the graph learning community. 
+New understandings of the current challenges, new perspectives regarding the future directions, and new solutions and applications as proof of concepts are highly welcomed.
+
+
+### Scope and Topics
+We welcome submissions regarding the new frontiers of graph learning, including but not limited to:
+- *Graphs in the wild:* Graph learning for datasets and applications without explicit relational structure (e.g., images, text, audios, code). Novel ways of modeling structured/unstructured data as graphs are highly welcomed.
+
+- *Graphs in ML:* Graph representations in general machine learning problems (e.g., neural architectures as graphs, relations among input data and learning tasks, graphs in large language models, etc.)
+
+- *New oasis:* Graph learning methods that are significantly different from the current paradigms (e.g., large-scale pre-trained models, multi-task models, super scalable algorithms, etc.)
+
+- *New capabilities:* Graph representation for knowledge discovery, optimization, causal inference, explainable ML, ML fairness, etc.
+
+- *Novel applications:* Novel applications of graph learning in real-world industry and scientific domains. (e.g., graph learning for missing data imputation, program synthesis, etc.) 
+
 
 Should you have any questions, please reach out to us via email:<br>
-[simdl2021@gmail.com](mailto:simdl2021@gmail.com)
+[graphlearningfrontiers@gmail.com
+](mailto:graphlearningfrontiers@gmail.com)
 
-We look forward to seeing you at ICLR!
 
+
+<!-- 
 ### References
 [1] P. Battaglia et al. Interaction networks for learning about objects, relations and physics. NeurIPS 2016. <br>
 [2] K. T. Schütt et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions. NeurIPS 2017.<br>
@@ -66,5 +58,5 @@ We look forward to seeing you at ICLR!
 [9] R. Wang et al. Towards physics-informed deep learning for turbulent flow prediction. KDD 2020.<br>
 [10] A. Mohan et al. Embedding hard physical constraints in convolutional neural networks for 3D turbulence. ICLR 2020 Workshop.<br>
 [11] Y. Li et al. Learning compositional koopman operators for model-based control. ICLR 2020.<br>
-[12] Peurifoy, John, et al. "Nanophotonic particle simulation and inverse design using artificial neural networks." Science advances 4.6 (2018): eaar4206.
+[12] Peurifoy, John, et al. "Nanophotonic particle simulation and inverse design using artificial neural networks." Science advances 4.6 (2018): eaar4206. -->
 

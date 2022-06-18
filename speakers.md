@@ -7,46 +7,31 @@ permalink: /speakers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Nils_Thuerey.jpg?raw=true"  alt="1" width = 120px height = 150px ><br />
-      <a href="https://ge.in.tum.de/about/n-thuerey/">Nils Thuerey</a><br />
-      TUM
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/Xavier.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://graphdeeplearning.github.io/authors/xavier-bresson/">Xavier Bresson</a><br />
+      National University of Singapore
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Anima.png?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a><br />
-      Caltech & NVIDIA
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/Azalia.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="http://azaliamirhoseini.com/">Azalia Mirhoseini</a><br />
+      Google Brain
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/david_duvenaud_full.jpg?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a><br />
-      University of Toronto
-    </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/thaler_jesse.jpg?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="http://www.jthaler.net/doku.php">Jesse Thaler</a><br />
-      MIT
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/Pushmeet.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://sites.google.com/site/pushmeet/">Pushmeet Kohli</a><br />
+      DeepMind
     </td>
   </tr> 
   <tr>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Shirley_Ho.jpg?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="https://www.cmu.edu/physics/people/faculty/ho.html">Shirley Ho</a><br />
-      Flatiron Institute
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/Pietro.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://www.cl.cam.ac.uk/~pl219/">Pietro Liò</a><br />
+      University of Cambridge
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Ron_Fedkiw.jpg?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="http://physbam.stanford.edu/~fedkiw/">Ron Fedkiw</a><br />
-      Stanford
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/Kimberly.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://neurokim.com/">Kimberly Stachenfeld</a><br />
+      DeepMind
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Larry_Zitnick.png?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="http://larryzitnick.org/">Larry Zitnick</a><br />
-      FAIR
-    </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/liyunzhu.jpg?raw=true" alt="2" width = 120px height = 150px><br />
-      <a href="https://people.csail.mit.edu/liyunzhu/">Yunzhu Li</a><br />
-      MIT
-    </td>
-  </tr>
+  </tr> 
 </table>

@@ -1,2 +1,2 @@
-# simdl.github.io
-Deep Learning for Simulation (simDL)
+# glfrontiers.github.io
+New Frontiers in Graph Learning (GLFrontiers)

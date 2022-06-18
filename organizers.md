@@ -8,70 +8,41 @@ permalink: /organizers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rex_Ying.jpg?raw=true"  alt="1" width = 130px height = 169px ><br />
-      <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a><br />
-      Stanford
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/JiaxuanYou.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://cs.stanford.edu/~jiaxuan/">Jiaxuan You</a><br />
+      Kumo AI | Stanford
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Tailin_Wu.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://tailin.org/">Tailin Wu</a><br />
-      Stanford
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/RexYing.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://cs.stanford.edu/~rexy/">Rex Ying</a><br />
+      Yale
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Peter_Battaglia.jpeg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en">Peter Battaglia</a><br />
-      DeepMind
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/HanjunDai.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://hanjun-dai.github.io/">Hanjun Dai</a><br />
+      Google Brain
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rose_Yu.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="http://roseyu.com/">Rose Yu</a><br />
-      UCSD
-    </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Ryan_Adams.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://www.cs.princeton.edu/~rpa/">Ryan Adams</a><br />
-      Princeton
-    </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Jure.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://cs.stanford.edu/~jure/">Jure Leskovec</a><br />
-      Stanford
-    </td>
-  </tr> 
-</table>
-
-
-
-**Program chairs:**
-
-<table>
   <tr>
     <td> 
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Rex_Ying.jpg?raw=true"  alt="1" width = 130px height = 169px ><br />
-      <a href="https://cs.stanford.edu/people/rexy/">Rex Ying</a><br />
-      Stanford
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/MarinkaZitnik.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a><br />
+      Harvard
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Tailin_Wu.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://tailin.org/">Tailin Wu</a><br />
-      Stanford
+    <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/YizhouSun.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a><br />
+      UCLA
     </td>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/Liwei-Chen.png?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://ge.in.tum.de/about/dr-liwei-chen/">Liwei Chen</a><br />
-      TUM
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/SimDL/SimDL.github.io/blob/main/images/liyunzhu.jpg?raw=true" alt="2" width = 130px height = 169px><br />
-      <a href="https://people.csail.mit.edu/liyunzhu/">Yunzhu Li</a><br />
+        <td> 
+      <img src="https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/StefanieJegelka.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a><br />
       MIT
     </td>
   </tr> 
 </table>
 
+
 Should you have any questions, please reach out to us via email:<br>
-[simdl2021@gmail.com](mailto:simdl2021@gmail.com)
+[graphlearningfrontiers@gmail.com
+](mailto:graphlearningfrontiers@gmail.com)

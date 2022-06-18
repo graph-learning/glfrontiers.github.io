@@ -4,48 +4,34 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Friday, 12 March 2021 (23:59 AoE)<br> 
+**Submission deadline:** Thursday, Sept 15 2022 (23:59 AoE)<br> 
 
-**Author notification:** Wednesday, 31 March 2021
+**Author notification:** Thursday, Oct 6 2022
 
-**Camera ready deadline:** Friday, 30 April 2021 (23:59 AoE)
+**Camera ready deadline:** Thursday, Oct 27 2022 (23:59 AoE)
 
-**Workshop:** Friday, 7 May 2021<br>
-The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. For more information from ICLR, please see the [ICLR conference website](https://iclr.cc/Conferences/2021).
+**Workshop:** Friday, Dec 2 2022<br>
 
-You may submit your paper through **CMT**, by following [**this link**](https://cmt3.research.microsoft.com/ICLRSimDL2021/).
 
-We encourage submissions related to learning simulations using deep learning. The areas of simulation span areas in science and engineering. Here is a non-exhaustive list of areas of learning simulation:
+We welcome submissions regarding the new frontiers of graph learning, including but not limited to:
+- *Graphs in the wild:* Graph learning for datasets and applications without explicit relational structure (e.g., images, text, audios, code). Novel ways of modeling structured/unstructured data as graphs are highly welcomed.
 
-- Learning simulation for physics, including by not limited to simulations in particle physics, plasma physics, astrophysics, etc.
-    
-- Learning simulation in chemistry and biology
+- *Graphs in ML:* Graph representations in general machine learning problems (e.g., neural architectures as graphs, relations among input data and learning tasks, graphs in large language models, etc.)
 
-- Learning PDEs, in areas including fluid dynamics, aerodynamics, and other engineering domains.
+- *New oasis:* Graph learning methods that are significantly different from the current paradigms (e.g., large-scale pre-trained models, multi-task models, super scalable algorithms, etc.)
 
-- Learning simulation for materials
-    
-- Learning simulation in robotics
+- *New capabilities:* Graph representation for knowledge discovery, optimization, causal inference, explainable ML, ML fairness, etc.
 
-- Learning simulation in graphics scenes
+- *Novel applications:* Novel applications of graph learning in real-world industry and scientific domains. (e.g., graph learning for missing data imputation, program synthesis, etc.) 
 
-We welcome submissions that address the following aspects of learning simulation:
 
-- Novel deep learning architectures and/or objectives for learning simulation
 
-- Application of a deep learning method to one or several important simulation domains, improving on previous methods
 
-- Deep learning methods to speed up simulations
+We welcome original research papers of up to 4 pages (excluding references and supplementary materials). 
+All accepted papers will be presented as posters. We will select 6 papers for oral presentations and 2 papers for the outstanding paper awards with potential cash incentives.
 
-- New benchmarks and/or evaluation metrics for learning simulation
-
-- Theoretical understanding and analysis of architectures and/or objectives.
-
-We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. 
-
-All accepted papers will be presented in the virtual poster session, with three contributed works, being selected for an oral presentation. 
-
-All submissions must use the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
+All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 Should you have any questions, please reach out to us via email:<br>
-[simdl2021@gmail.com](mailto:simdl2021@gmail.com)
+[graphlearningfrontiers@gmail.com
+](mailto:graphlearningfrontiers@gmail.com)

@@ -1,11 +1,11 @@
 # Site settings
-title: Deep Learning for Simulation (simDL)
-description: 'ICLR 2021 Workshop'
-url: 'grlplus.github.io'
+title: New Frontiers in Graph Learning (GLFrontiers)
+description: 'NeurIPS 2022 Workshop'
+url: 'glfrontiers.github.io'
 baseurl: '' 
 
 author:
-  name: 'Rex Ying, Tailin Wu'
+  name: 'Jiaxuan You'
 
 defaults:
   -
