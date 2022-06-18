@@ -1,7 +1,8 @@
 # Site settings
 title: New Frontiers in Graph Learning (GLFrontiers)
 description: 'NeurIPS 2022 Workshop'
-url: 'glfrontiers.github.io'
+domain: glfrontiers.github.io
+url: https://glfrontiers.github.io
 baseurl: '' 
 
 author:
